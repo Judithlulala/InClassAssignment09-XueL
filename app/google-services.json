@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "41259168018",
+    "firebase_url": "https://inclassassignment09-xuel.firebaseio.com",
+    "project_id": "inclassassignment09-xuel",
+    "storage_bucket": "inclassassignment09-xuel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41259168018:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41259168018-agh6m61625l19kudn03mgre5o4nfuu45.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "24aab4eca4a6e2949876930a41748d185b031be2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF86Mrb0Ir7VLGbqAeJUdhq1qUTwXc-Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41259168018-j6bntu1ucjkvrkovlhi2n1ubtjormvcf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
